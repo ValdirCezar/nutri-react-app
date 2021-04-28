@@ -18,14 +18,13 @@ class App extends Component {
         let state = this.state;
         state.list = json
         this.setState(state)
-        console.log(this.state.list)
       })
   }
 
   render() {
     return (
-      <div>
-        Teste
+      <div className="container">
+        
       </div>
     );
   }
