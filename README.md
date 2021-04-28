@@ -4,7 +4,11 @@
 
 </div>
 
+<div align="center">
+	
 ![Logo do Markdown](https://github.com/ValdirCezar/nutri-react-app/blob/master/src/assets/img/Screenshot_1.png?raw=true)
+
+</div>
 
 <p align="center">
 <img src="https://img.shields.io/badge/HTML%20-%23F7DF1E.svg?&style=for-the-badge&color=E34F26" />&nbsp;&nbsp;
